@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi! I'm @ankneis
+- 🏖️ San Diego based, usually at the beach 
+- 👯 Part of the Product Operations team
+- 👀 Interested in documentaries, food, travel! Send recs!
 
 <!--
 **ankneis/ankneis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
