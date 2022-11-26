@@ -1,4 +1,5 @@
-### 👋 Hi! I'm @ankneis
+<h1 align="center">Hey flack 👋, I'm @ankneis</h1>
+<h3 align="center">A passionate Web developer </h3>
 - 🏖️ San Diego based, usually at the beach 
 - 👯 Part of the Product Operations team
 - 👀 Interested in documentaries, food, travel! Send recs!
